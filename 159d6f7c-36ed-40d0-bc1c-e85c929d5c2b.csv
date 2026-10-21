@@ -1,0 +1,2 @@
+Job,Workflow,Failure rate,Avg run time,Avg queue time,Runner type,Runner labels,Job runs
+Dependabot,dynamic/dependabot/dependabot-updates,71.43,77415,2806,hosted,ubuntu-latest,7
